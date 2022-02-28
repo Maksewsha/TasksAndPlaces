@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TasksAndPlaces</string>
+    <string name="list_of_all_places_tasks">List of all places/tasks</string>
+    <string name="random_place_task">Random place/task</string>
+    <string name="settings">Settings</string>
+    <string name="places">Places</string>
+    <string name="and">And</string>
+    <string name="tasks">Tasks</string>
+</resources>

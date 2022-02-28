@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_activity_nav_view_menu_random"
+        android:icon="@drawable/ic_baseline_soap_24"
+        android:title="@string/random_place_task" />
+    <item
+        android:id="@+id/main_activity_nav_view_menu_item_list"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="@string/list_of_all_places_tasks"/>
+    <item
+        android:id="@+id/main_activity_nav_view_menu_settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/settings"/>
+</menu>
